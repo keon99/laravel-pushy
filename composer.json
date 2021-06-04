@@ -1,5 +1,5 @@
 {
-    "name": "jlorente/laravel-pushy",
+    "name": "keon99/laravel-pushy",
     "description": "Laravel integration for the Pushy SDK including a notification channel",
     "keywords": [
         "php",
