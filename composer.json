@@ -16,8 +16,7 @@
     ],
     "require": {
         "php": ">=7.1.3",
-        "illuminate/support": "~5.5 || ~6.0 || ~7.0 || ~8.0",
-        "keon99/pushy-php-sdk": "*"
+        "illuminate/support": "~5.5 || ~6.0 || ~7.0 || ~8.0"
     },
     "autoload": {
         "psr-4": {
